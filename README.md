@@ -6,6 +6,17 @@ Payments are processed by Stripe.  Devise is used for sign-in forms and security
 
 See it in action <a href="https://flixter-winnie-khuu.herokuapp.com">here</a>
 
+## TECHNOLOGIES USED
+* HTML
+* CSS
+* JavaScript
+* Ruby
+* Rails
+* Algorithms
+* Vagrant
+* PuTTY
+* RubyMine
+
 ## SEE IT LOCALLY
 
 1. Download the repository and unzip the files.
